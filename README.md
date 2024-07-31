@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Sciece**
 
-- 👨‍💻 All of my projects are available at [ashircodes.web.app](ashircodes.web.app)
+- 👨‍💻 All of my projects are available at [ashirmustafa.com](ashircodes.web.app)
 
 - 💬 Ask me about **Javascript / Typescript**
 
