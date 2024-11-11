@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Safra Tourism**
 
-- 🌱 I’m currently learning **Data Sciece**
+- 🌱 I’m currently learning **RUST**
 
 - 👨‍💻 All of my projects are available at [ashirmustafa.com](ashircodes.web.app)
 
